@@ -1,6 +1,0 @@
-<!DOCTYPE RCC><RCC version="1.0">
-    <qresource>
-        <file alias="add.svg">resources/add.svg</file>
-        <file alias="help.svg">resources/help.svg</file>
-    </qresource>
-</RCC>
